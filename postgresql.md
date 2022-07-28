@@ -6,7 +6,7 @@ sudo apt install postgresql postgresql-contrib
 
 sudo su - postgres
 
-## Entramos a la consola se postgresql
+## Entramos a la consola de postgresql
 
 psql
 

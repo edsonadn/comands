@@ -6,7 +6,7 @@ sudo apt install postgresql postgresql-contrib
 
 sudo su - postgres
 
-## entramos a la consola se postgresql
+## Entramos a la consola se postgresql
 
 psql
 
@@ -16,7 +16,7 @@ create database db_curso with owner curso;
 
 alter user curso with superuser;
 
-# instalamos pgadmin 4 
+# Instalamos pgadmin 4 
 
 sudo apt install curl
 

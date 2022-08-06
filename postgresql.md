@@ -30,6 +30,9 @@ sudo apt install pgadmin4
 
 sudo -u postgres psql
 
+- cambiar de usuario dentro de psql
+\connect data_base usuario
+
 \?    -> Ver los comandos postgres
 \l    -> Listar todas las bases de datos
 \dt   -> Ver las tablas de una base de datos
